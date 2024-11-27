@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8wzClpQUn8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t-odembitska\\OneDrive - Microsoft\\Desktop\\Exercises\\HttpClient\\HttpClient\\HttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-odembitska\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
